@@ -1,6 +1,6 @@
 
 
-declare module global {
+export declare global {
   namespace ReactNavigation {
     interface RootParamList {
       new: undefined;
